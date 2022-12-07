@@ -1,0 +1,8 @@
+{
+  "pasteImage.namePrefix": "ss-",
+  "pasteImage.defaultName": "YMMDD-HHmmss",
+  "pasteImage.path": "${projectRoot}/images/${currentFileNameWithoutExt}",
+  "pasteImage.basePath": "${projectRoot}",
+  "pasteImage.prefix": "../",
+  "pasteImage.filePathConfirmInputBoxMode": "onlyName",
+}
